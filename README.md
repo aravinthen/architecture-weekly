@@ -1,2 +1,2 @@
 # deep-architectures
-An investigation of deep learning architectures. The goal of this project is to learn how to build, extend and distribute architectures for a variety of problems. My goal is to develop a very strong understanding of advanced deep learning models by actively building them.
+These are deep architectures that I've encountered during my studies in deep reinforcement learning. The repository will be updated as I use more and more complex architectures throughout my work.
